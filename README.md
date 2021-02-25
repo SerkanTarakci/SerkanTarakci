@@ -10,7 +10,11 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>
 </a>&nbsp;&nbsp;
 </p>
-
+<p>
+<a href="https://twitter.com/serkan_tarakc">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white"/>
+</a>&nbsp;&nbsp;
+</p>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Tool-Unity-57b9d3.svg?style=flat&logo=unity)
