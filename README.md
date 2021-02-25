@@ -2,21 +2,21 @@
 ### Hi there 👋 yes, my favorite movie is The Thirteenth Floor
 ![](https://komarev.com/ghpvc/?username=SerkanTarakci&color=DC143C&label=Profile+views)
 
-<p>
+
 <a href="https://www.linkedin.com/in/serkan-tarakci/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&labelColor=blue" />
 </a>&nbsp;&nbsp;
-</p>
-<p>
+
+<br/>
 <a href="https://www.instagram.com/serkantarakci.st/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>
 </a>&nbsp;&nbsp;
-</p>
-<p>
+
+<br/>
 <a href="https://twitter.com/serkan_tarakc">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white"/>
 </a>&nbsp;&nbsp;
-</p>
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Tool-Unity-57b9d3.svg?style=flat&logo=unity)
