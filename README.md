@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white"/>
 </a>&nbsp;&nbsp;
 <br/>
-<a href="https://twitter.com/serkan_tarakc">
+<a href="https://serkantarakci.com/">
     <img src="https://img.shields.io/badge/serkantarakci.com%20-%23EE4C2C.svg?&style=flat&logo=Logo&logoColor=white"/>
 </a>&nbsp;&nbsp;
 
