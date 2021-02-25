@@ -5,11 +5,11 @@
 <a href="https://www.linkedin.com/in/serkan-tarakci/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&labelColor=blue" />
 </a>&nbsp;&nbsp;
-
+<p>
 <a href="https://www.instagram.com/serkantarakci.st/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>
 </a>&nbsp;&nbsp;
-
+</p>
 
 
 ## 🔧 Technologies & Tools
