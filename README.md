@@ -32,6 +32,9 @@
 
 ## 🚀 GitHub Repos
 
+<a href="https://github.com/SerkanTarakci/Flappy-Bird-Demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SerkanTarakci&repo=Flappy-Bird-Demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <a href="https://github.com/SerkanTarakci/AA-Game-Demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SerkanTarakci&repo=AA-Game-Demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
